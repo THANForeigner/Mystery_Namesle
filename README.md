@@ -1,15 +1,12 @@
-## Wordle Clone Application
-This is a simple, command-line clone of the widely popular **Wordle** word-guessing game.
-You can experience the original game or similar versions online:
-* [The New York Times Wordle](https://www.nytimes.com/games/wordle/index.html)
-* [Wordly.org](https://wordly.org/)
+## Mystery Namesle Application
+This is a simple game where you guess an English name with hints
 
 ## Installation and Execution
 ### Installation
 To get a local copy up and running, follow these steps:
 1.  **Clone the Repository:**
     Clone the project from GitHub using the following link:
-    [https://github.com/THANForeigner/Wordle_Clone](https://github.com/THANForeigner/Wordle_Clone)
+    [https://github.com/THANForeigner/Mystery_Namesle](https://github.com/THANForeigner/Mystery_Namesle)
 2.  **Install Prerequisites:**
     Ensure all necessary dependencies are installed before running the code. These are listed in the **`requirements.txt`** file. Failing to install these files will prevent the application from running correctly.
 
